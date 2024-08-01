@@ -1,10 +1,13 @@
 # BTTAI LABS
 ## Author: Michelangelo Zampieri
-Code for Labs of Break Through Tech AI 2024
 
-This repository includes all the labs I did for BTTAI, an introductory course to machine learning and AI at MIT though eCornell. 
+This repository includes all the labs and assignments I did for BTTAI in srping 2024, an introductory course to machine learning and AI at MIT though eCornell. 
 
 ---------------------------------------------------------------------------------------
+
+Labs for Break Through Tech AI 2024
+
+This repository includes all the labs I did for BTTAI, an introductory course to machine learning and AI at MIT though eCornell. 
 
 - Lab 1- Business Understanding: This lab focused on understanding the python tools and language, and formulating a business plan for a machine leaning model for a given problem.
 
