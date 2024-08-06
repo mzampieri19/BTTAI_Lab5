@@ -5,6 +5,16 @@ This repository includes all the labs and assignments I did for BTTAI in srping 
 
 ---------------------------------------------------------------------------------------
 
+Data for Break Through Tech AI 2024
+
+The data folder includes CSV files for the following data sets 
+
+- AirBNBListings
+- Census Data
+- World Happiness Report
+
+---------------------------------------------------------------------------------------
+
 Labs for Break Through Tech AI 2024
 
 This repository includes all the labs I did for BTTAI, an introductory course to machine learning and AI at MIT though eCornell. 
